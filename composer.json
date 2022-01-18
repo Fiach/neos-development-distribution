@@ -52,6 +52,6 @@
         "post-package-install": "Neos\\Flow\\Composer\\InstallerScripts::postPackageUpdateAndInstall"
     },
     "extra": {
-        "patches-file": "Packages/CR/Neos.EventSourcedNeosAdjustments/composer.patches.json"
+        "patches-file": "https://raw.githubusercontent.com/neos/contentrepository-development-collection/master/Neos.EventSourcedNeosAdjustments/composer.patches.json"
     }
 }
